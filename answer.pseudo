@@ -1,6 +1,8 @@
+php code:
+
 function tesing($name)
 {
-  $no=random(6,15);
+  $no=rand(6,15);
   echo $name;
   echo " ";
   echo $no;
