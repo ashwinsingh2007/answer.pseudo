@@ -1,0 +1,7 @@
+function tesing($name)
+{
+  $no=random(6,15);
+  echo $name;
+  echo " ";
+  echo $no;
+}
